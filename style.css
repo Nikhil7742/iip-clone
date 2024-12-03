@@ -1024,16 +1024,19 @@ p {
     font-size: 17px;
     word-spacing: 5px;
 }
-.form{
+
+.form {
     margin-left: 15px;
     line-height: 30px;
 }
-.form h4{
+
+.form h4 {
     display: inline-block;
     width: 120px;
 }
-.send{
-    margin-left:15px;
+
+.send {
+    margin-left: 15px;
     margin-top: 15px;
     width: 70px;
     height: 40px;
@@ -1041,8 +1044,9 @@ p {
     border: none;
     border-radius: 10px;
     color: white;
-    font-weight:bold;
+    font-weight: bold;
 }
-.address{
+
+.address {
     transform: translateY(-80px);
 }
